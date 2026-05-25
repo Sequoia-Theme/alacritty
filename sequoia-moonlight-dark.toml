@@ -1,0 +1,33 @@
+# Sequoia Sequoia Moonlight Dark for Alacritty
+
+[colors.primary]
+background = "#0f1014"
+foreground = "#868690"
+
+[colors.cursor]
+text = "#0f1014"
+cursor = "#c58fff"
+
+[colors.selection]
+text = "CellForeground"
+background = "#817c9c26"
+
+[colors.normal]
+black = "#131317"
+red = "#f58ee0"
+green = "#8eb6f5"
+yellow = "#9898a6"
+blue = "#c58fff"
+magenta = "#fdfdfe"
+cyan = "#ffbb88"
+white = "#868690"
+
+[colors.bright]
+black = "#575861"
+red = "#f58ee0"
+green = "#8eb6f5"
+yellow = "#9898a6"
+blue = "#c58fff"
+magenta = "#fdfdfe"
+cyan = "#ffbb88"
+white = "#868690"

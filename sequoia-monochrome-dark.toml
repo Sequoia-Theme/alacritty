@@ -1,0 +1,33 @@
+# Sequoia Sequoia Monochrome Dark for Alacritty
+
+[colors.primary]
+background = "#0f1014"
+foreground = "#868690"
+
+[colors.cursor]
+text = "#0f1014"
+cursor = "#7c829d"
+
+[colors.selection]
+text = "CellForeground"
+background = "#817c9c26"
+
+[colors.normal]
+black = "#131317"
+red = "#999eb2"
+green = "#626983"
+yellow = "#d3d5de"
+blue = "#7c829d"
+magenta = "#e2e4ed"
+cyan = "#b6bac8"
+white = "#868690"
+
+[colors.bright]
+black = "#575861"
+red = "#999eb2"
+green = "#626983"
+yellow = "#d3d5de"
+blue = "#7c829d"
+magenta = "#e2e4ed"
+cyan = "#b6bac8"
+white = "#868690"
